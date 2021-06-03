@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Darean Wong
+tagline: Business Strategist
+featuredImage: /assets/182279653_10159131283330170_582318430667107525_n.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+E-Commerce Strategist and Metaphysics Based AI Researcher, specializing in growth, business and marketing strategies. Based in the Pearl of the Orient, Penang.
